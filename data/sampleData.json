@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Interstellar",
+    "description": "A mind-bending journey through space and time.",
+    "type": "movie",
+    "rating": 4.8,
+    "likes": 1200,
+    "views": 5000,
+    "image": "https://example.com/interstellar.jpg"
+  },
+  {
+    "name": "Grand Hotel",
+    "description": "Luxurious accommodations with impeccable service.",
+    "type": "hotel",
+    "rating": 4.9,
+    "likes": 800,
+    "views": 6000,
+    "image": "https://example.com/grandhotel.jpg"
+  },
+  {
+    "name": "Gourmet Delights",
+    "description": "A culinary masterpiece with exquisite flavors.",
+    "type": "food",
+    "rating": 4.7,
+    "likes": 2500,
+    "views": 8000,
+    "image": "https://example.com/gourmetdelights.jpg"
+  },
+  {
+    "name": "Inception",
+    "description": "A mind-bending journey into dreams within dreams.",
+    "type": "movie",
+    "rating": 4.5,
+    "likes": 3000,
+    "views": 10000,
+    "image": "https://example.com/inception.jpg"
+  },
+  {
+    "name": "Seaside Resort",
+    "description": "A picturesque resort with stunning ocean views.",
+    "type": "hotel",
+    "rating": 4.6,
+    "likes": 1500,
+    "views": 7000,
+    "image": "https://example.com/seasideresort.jpg"
+  },
+  {
+    "name": "Savor the Flavors",
+    "description": "An explosion of taste with every bite.",
+    "type": "food",
+    "rating": 4.8,
+    "likes": 1800,
+    "views": 9000,
+    "image": "https://example.com/savortheflavors.jpg"
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "Gotham's greatest protector faces a new threat.",
+    "type": "movie",
+    "rating": 4.9,
+    "likes": 2500,
+    "views": 12000,
+    "image": "https://example.com/thedarkknight.jpg"
+  },
+  {
+    "name": "Mountain Retreat",
+    "description": "Escape to a serene retreat surrounded by mountains.",
+    "type": "hotel",
+    "rating": 4.7,
+    "likes": 1200,
+    "views": 8000,
+    "image": "https://example.com/mountainretreat.jpg"
+  },
+  {
+    "name": "Culinary Elegance",
+    "description": "Elegance meets taste in every dish.",
+    "type": "food",
+    "rating": 4.6,
+    "likes": 2200,
+    "views": 10000,
+    "image": "https://example.com/culinaryelegance.jpg"
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "description": "An inspiring tale of hope and friendship in prison.",
+    "type": "movie",
+    "rating": 4.8,
+    "likes": 3500,
+    "views": 15000,
+    "image": "https://example.com/shawshankredemption.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+node_modules/
+# .env
+.prettierrc
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+.npm
+.eslintcache
+coverage
+.grunt
+bower_components/
+flow-typed/
+yarn-error.log
+yarn.lock
+.pnp.*
+.pnp.js
+*.tsbuildinfo
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+config.js
